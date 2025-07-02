@@ -41,9 +41,13 @@ print("Hello")
 | 최수빈 | 28   | 개발자    |
 
 #### 5. 링크, 이미지 삽입
-
+**링크**
 [네이버로 가기](https://naver.com)
 
+**이미지**
 imgur -> 이미지 링크 생성
 
-![강의 커리큘럼](https://i.imgur.com/dVobl01.png)
+<img src="https://i.imgur.com/dVobl01.png" alt="강의 커리큘럼" width="200">
+
+
+![강의 커리큘럼](이미지 링크)
