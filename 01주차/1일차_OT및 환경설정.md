@@ -1,5 +1,5 @@
 ## 2025-07-01 TUE(1일차)
----
+
 ### 🎓 강의 주제
 : OT, 자기소개, Python 및 Git 환경설정, markdown 작성법
 
@@ -46,4 +46,4 @@ print("Hello")
 
 imgur -> 이미지 링크 생성
 
-![강의 커리큘럼](https://imgur.com/a/RsHzxPc)
+![강의 커리큘럼](https://i.imgur.com/dVobl01.png)
